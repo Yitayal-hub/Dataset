@@ -1,0 +1,8 @@
+tensorflow-cpu>=2.0
+tensorflow-hub>=0.4.14
+numpy
+pyhocon
+scipy
+sklearn
+tqdm
+colorama
